@@ -4,7 +4,7 @@
 
 # House_Price_Predictions
 
-> *A Project of Data Mining and Data Warehousing (COMP4433) subject at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [JIANG Yiyang](https://github.com/fletcherjiang) and [ZHANG Wengyu and JIANG Yiyang](https://github.com/zhangwengyu999)*, 2023/2024 Semester 1.
+> *A Project of Data Mining and Data Warehousing (COMP4433) subject at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [JIANG Yiyang](https://github.com/fletcherjiang) and [ZHANG Wengyu](https://github.com/zhangwengyu999)*, 2023/2024 Semester 1.
 
 
 Advancing House Price Predictions: Data to Model Insights, a ["House Prices - Advanced Regression Techniques" Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/).
