@@ -16,7 +16,10 @@ Please first download the `train.csv` and `test.csv` dataset files from [House P
 ## 1. Video Presentation
 
 
-https://github.com/zhangwengyu999/House_Price_Predictions/assets/51084226/8edd67c8-848e-4d03-8737-397b2b865176
+
+https://github.com/zhangwengyu999/House_Price_Predictions/assets/51084226/b644b625-2350-47cd-a437-19a44656ab24
+
+
 
 
 ---
